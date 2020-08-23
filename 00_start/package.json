@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "cd.. && npm run start --prefix server",
+    "client": "npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [
     "REST",

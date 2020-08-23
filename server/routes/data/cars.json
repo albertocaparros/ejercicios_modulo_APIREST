@@ -34,5 +34,35 @@
         "name": "Green Roaster",
         "brand": "HMI",
         "year_release": "1976"
+    },
+    {
+        "car_id": 62,
+        "name": "AZE",
+        "brand": "Tokiotaasdf",
+        "year_release": "1995"
+    },
+    {
+        "car_id": 63,
+        "name": "AZE",
+        "brand": "TokiotaMiPana",
+        "year_release": "1995"
+    },
+    {
+        "car_id": 64,
+        "name": "AZENDADO",
+        "brand": "Tokiota",
+        "year_release": "1995"
+    },
+    {
+        "car_id": 65,
+        "name": "Colola-light",
+        "brand": "GIA",
+        "year_release": "2015"
+    },
+    {
+        "car_id": 66,
+        "name": "Calel Hijo De Jorel",
+        "brand": "HMI",
+        "year_release": "1975"
     }
 ]
