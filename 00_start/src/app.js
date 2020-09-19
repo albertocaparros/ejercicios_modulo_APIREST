@@ -5,7 +5,7 @@ import {
   retrieveCarForm,
   cleanTable,
 } from './uiHelpers';
-import { getAllCars, getCarById, addCar } from './API/carsApi.request';
+import { getAllCars, getCarById, addCar } from './API/carsApi.graphql';
 
 document.addEventListener('DOMContentLoaded', () => {
   const buttonLoadCars = document.getElementById('loadcars');
